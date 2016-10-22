@@ -1,4 +1,5 @@
-﻿/.settings
+﻿.gitignore
 .buildpath
 .project
+/.settings
 /Application/Runtime
